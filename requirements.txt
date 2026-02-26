@@ -1,24 +1,6 @@
-# ─────────────────────────────────────────────────────────────
-#  ✈️  Flight Price Prediction Dashboard — Requirements
-#  Install with: pip install -r requirements.txt
-#  Run app with: streamlit run app.py
-# ─────────────────────────────────────────────────────────────
-
-# Web framework
 streamlit
-
-# Data manipulation
 pandas
 numpy
-
-# Machine learning
 scikit-learn
-
-# Visualisation
 matplotlib
-
-# Excel file support (for Data_Train.xlsx)
 openpyxl
-
-# Model serialisation (stdlib — listed for clarity)
-# pickle  →  built-in, no install needed
